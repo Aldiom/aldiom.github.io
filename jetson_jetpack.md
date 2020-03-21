@@ -30,5 +30,5 @@ sudo dpkg -i sdkmanager_1.0.1-5538_amd64.deb
 sudo apt update
 sudo apt upgrade
 ```
-&nbsp; &nbsp; si es que aún no lo has hecho.
-* Para instalar TensorFlow recomiendo seguir la guía que está en la [documentación de Nvidia](https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html) al respecto. Debo señalar que no todas las versiones de TF se encuentran disponibles en los repositorios de Nvidia (a la fecha de escritura, para Jetpack 4.3 sólo esta TF-1.15 y TF-2.0). Recomiendo usar la instalación dentro de un virtual environment para evitar conflictos futuros con otros paquetes.
+&nbsp; si es que aún no lo has hecho.
+* Para instalar TensorFlow recomiendo seguir la guía que está en la [documentación de Nvidia](https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html) al respecto. Debo señalar que no todas las versiones de TF se encuentran disponibles en los repositorios de Nvidia (a la fecha de escritura, para JetPack 4.3 sólo esta TF-1.15 y TF-2.0). Recomiendo usar la instalación dentro de un virtual environment para evitar conflictos futuros con otros paquetes.
