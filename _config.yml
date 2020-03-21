@@ -4,4 +4,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  Jetson_Jetpack.md
+  jetson_jetpack.md
